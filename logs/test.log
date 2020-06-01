@@ -1,0 +1,437 @@
+INFO:Written to PDF:jan2k16annex5
+INFO:Written to PDF:feb2k16annex5
+INFO:Written to PDF:mar2k16annex5
+INFO:Written to PDF:apr2k16annex5
+INFO:Written to PDF:may2k16annex5
+INFO:Written to PDF:jun2k16annex5
+INFO:Written to PDF:jul2k16annex5
+INFO:Written to PDF:aug2k16annex5
+INFO:Written to PDF:sep2k16annex5
+INFO:Written to PDF:oct2k16annex5
+INFO:Written to PDF:nov2k16annex5
+INFO:Written to PDF:dec2k16annex5
+INFO:Written to PDF:jan2k17annex5
+INFO:Written to PDF:feb2k17annex5
+INFO:Written to PDF:mar2k17annex5
+INFO:Written to PDF:apr2k17annex5
+INFO:Written to PDF:may2k17annex5
+INFO:Written to PDF:jun2k17annex5
+INFO:Written to PDF:jul2k17annex5
+INFO:Written to PDF:aug2k17annex5
+INFO:Written to PDF:sep2k17annex5
+INFO:Written to PDF:oct2k17annex5
+INFO:Written to PDF:nov2k17annex5
+INFO:Written to PDF:dec2k17annex5
+INFO:Written to PDF:jan2k18annex5
+INFO:Written to PDF:feb2k18annex5
+INFO:Written to PDF:mar2k18annex5
+INFO:Written to PDF:apr2k18annex5
+INFO:Written to PDF:may2k18annex5
+INFO:Written to PDF:jun2k18annex5
+INFO:Written to PDF:jul2k18annex5
+INFO:Written to PDF:aug2k18annex5
+INFO:Written to PDF:sep2k18annex5
+INFO:Written to PDF:oct2k18annex5
+INFO:Written to PDF:nov2k18annex5
+INFO:Written to PDF:dec2k18annex5
+INFO:Written to PDF:jan2k19annex5
+INFO:Written to PDF:feb2k19annex5
+WARNING:Got stderr: May 29, 2020 8:53:56 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:53:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:53:56 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:53:56 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:53:57 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:53:57 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:53:57 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:53:57 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:00 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:00 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:mar2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:03 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:03 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:03 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+
+INFO:Written to PDF:apr2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:06 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:06 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:06 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:may2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:09 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:09 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+
+INFO:Written to PDF:jun2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:12 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:12 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:12 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:13 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+
+INFO:Written to PDF:jul2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:16 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:16 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:16 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:17 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:17 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:17 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:19 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:19 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:aug2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:22 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:23 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:23 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:23 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:24 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:24 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:27 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:27 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:sep2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:29 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:30 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:30 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:31 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:31 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:31 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:54:33 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:33 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:oct2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:37 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:37 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:37 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:38 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:38 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:40 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:41 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:nov2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:44 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:44 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:44 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:45 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:45 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:45 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:48 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:48 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:dec2k19annex5
+WARNING:Got stderr: May 29, 2020 8:54:51 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:51 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:51 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Mangal,Bold
+May 29, 2020 8:54:52 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:52 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Mangal,Bold
+May 29, 2020 8:54:52 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Mangal,Bold
+May 29, 2020 8:54:54 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:54 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Mangal,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:jan2k20annex5
+WARNING:Got stderr: May 29, 2020 8:54:57 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:58 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:58 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:59 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:54:59 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:54:59 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:55:01 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:01 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:feb2k20annex5
+WARNING:Got stderr: May 29, 2020 8:55:05 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:55:05 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:55:05 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+
+INFO:Written to PDF:mar2k20annex5
+WARNING:Got stderr: May 29, 2020 8:55:08 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:55:08 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:55:08 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial
+May 29, 2020 8:55:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for 10 in font ABCDEE+Nirmala UI,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:55:09 PM org.apache.pdfbox.rendering.TTFGlyph2D getPathForGID
+WARNING: No glyph for code 10 in font Arial,Bold
+May 29, 2020 8:55:12 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:12 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
+INFO:Written to PDF:apr2k20annex5
+WARNING:Got stderr: May 29, 2020 8:55:15 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI are not implemented in PDFBox and will be ignored
+May 29, 2020 8:55:15 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for .notdef (10) in font Arial
+May 29, 2020 8:55:15 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Nirmala UI,Bold are not implemented in PDFBox and will be ignored
+
